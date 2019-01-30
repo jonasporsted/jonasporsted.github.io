@@ -1,0 +1,12 @@
+.baggrund {
+    background-color: black;
+    color: white;
+}
+.text {
+    color: blue;
+}
+
+.billede {
+    width: auto;
+    height: 250px;
+}
